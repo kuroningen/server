@@ -1,5 +1,26 @@
 # depslib dependency file v1.0
-1524642239 source:d:\dev\non-www\server\main.cpp
+1524695156 source:d:\dev\non-www\server\main.cpp
 	<fstream>
+	<tchar.h>
+	<windows.h>
+
+1524692226 source:d:\dev\non-www\server\main2.cpp
+	<tchar.h>
+	<windows.h>
+
+1524698251 source:d:\dev\non-www\server\src\main.cpp
+	<fstream>
+	<windows.h>
+	"frmDummyWindow.h"
+
+1524698601 source:d:\dev\non-www\server\src\frmdummywindow.cpp
+	"frmDummyWindow.h"
+
+1524697388 d:\dev\non-www\server\src\frmdummywindow.h
+	<tchar.h>
+	<windows.h>
+
+1524697388 d:\dev\non-www\server\include\frmdummywindow.h
+	<tchar.h>
 	<windows.h>
 
